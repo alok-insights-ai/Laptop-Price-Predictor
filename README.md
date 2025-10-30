@@ -26,4 +26,4 @@ Performance Metric
 # Predicted price
 ![image_alt](https://github.com/alok-insights-ai/Laptop-Price-Predictor/blob/main/Screenshot%202025-10-30%20134955.png)
 
- For Complete project file: [click here]()
+ For Complete project file: [click here](https://github.com/alok-insights-ai/Laptop-Price-Predictor/blob/main/laptop_price_prediction.ipynb)
