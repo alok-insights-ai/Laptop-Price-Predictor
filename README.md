@@ -18,10 +18,10 @@ Performance Metric
 
 2. Mean Absolute Error
 
-#Display
+# Display
 ![image_alt](https://github.com/alok-insights-ai/Laptop-Price-Predictor/blob/main/Screenshot%202025-10-30%20134925.png)
 # Result Comparison
 # Amazon price
-![image_alt](https://github.com/alok-insights-ai/Laptop-Price-Predictor/blob/main/Screenshot%202025-10-30%20134939.png*)
+![image_alt](https://github.com/alok-insights-ai/Laptop-Price-Predictor/blob/main/Screenshot%202025-10-30%20134939.png)
 # Predicted price
 ![image_alt](https://github.com/alok-insights-ai/Laptop-Price-Predictor/blob/main/Screenshot%202025-10-30%20134939.png)
